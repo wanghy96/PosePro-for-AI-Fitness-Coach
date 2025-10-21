@@ -1,1 +1,1 @@
-streamlit run ./AIÉî¶×½ÌÁ·.py
+streamlit run ./AI-Fitness-Coach.py
