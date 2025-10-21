@@ -1,0 +1,1 @@
+streamlit run ./AIÉî¶×½ÌÁ·.py
